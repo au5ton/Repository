@@ -2,9 +2,7 @@ Package: com.rileytestut.GBA4iOS
 Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: au5ton
-Installed-Size: 17
 Filename: .//debs/com.rileytestut.GBA4iOS.deb
-Size: 7664532
 Section: Applications
 Description: The number one Game Boy Advance emulator for iOS is back, and has been rewritten from the ground up for iOS 7.
 Author: Riley Testut
