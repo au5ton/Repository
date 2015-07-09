@@ -1,8 +1,8 @@
-Origin: insanj repo
-Label: insanj
+Origin: @au5ton’s repo
+Label: au5ton
 Suite: stable
-Version: 0.9
-Codename: insanj
+Version: 1.0
+Codename: au5ton
 Architectures: iphoneos-arm
 Components: main
-Description: insanj's breakthrough, beta, and personal repo.
+Description: Here, I’ll host whatever.
