@@ -3,7 +3,6 @@ Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: au5ton
 Installed-Size: 17
-Depends:
 Filename: .//debs/com.rileytestut.GBA4iOS.deb
 Size: 7068
 Section: Applications
